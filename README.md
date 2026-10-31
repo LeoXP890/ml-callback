@@ -1,0 +1,1 @@
+Página estática de retorno OAuth (somente leitura) do AI Commerce para o Mercado Livre. Sem scripts nem rastreamento. O código fica só na barra do navegador; a troca exige verificador PKCE e segredo da aplicação guardados localmente.
